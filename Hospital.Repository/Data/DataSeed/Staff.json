@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "call center staff",
+    "Password": "callcentersta",
+    "PhoneNumber": "444-111-1441",
+    "Email": "admin@hospital.com",
+    "Address": "Admin Building",
+    "Salary": 40000,
+    "Age": 40,
+    "PictureUrl": "images/staff/s1.jpg",
+    "Role": "A",
+    "JobTitle": "CallCenter"
+  },
+  {
+    "Name": "Reception staff",
+    "Password": "Receptionres",
+    "PhoneNumber": "333-232-2222",
+    "Email": "reception@hospital.com",
+    "Address": "Reception Area",
+    "Salary": 30000,
+    "Age": 33,
+    "PictureUrl": "images/staff/s2.jpg",
+    "Role": "B",
+    "JobTitle": "Reception"
+  },
+  {
+    "Name": "Security staff",
+    "Password": "Securityss",
+    "PhoneNumber": "222-222-2222",
+    "Email": "Security@hospital.com",
+    "Address": "Reception Area",
+    "Salary": 20000,
+    "Age": 22,
+    "PictureUrl": "images/staff/s3.jpg",
+    "Role": "C",
+    "JobTitle": "Security"
+  },
+  {
+    "Name": "Food Services staff",
+    "Password": "Foodser",
+    "PhoneNumber": "111-222-2222",
+    "Email": "Food@hospital.com",
+    "Address": "Reception Area",
+    "Salary": 10000,
+    "Age": 32,
+    "PictureUrl": "images/staff/s4.jpg",
+    "Role": "D",
+    "JobTitle": "FoodServices"
+  }
+]
+
+

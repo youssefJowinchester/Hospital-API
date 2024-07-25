@@ -1,0 +1,43 @@
+[
+  {
+    "PatientId": 37,
+    "NurseId": 17
+  },
+  {
+    "PatientId": 38,
+    "NurseId": 18
+  },
+  {
+    "PatientId": 39,
+    "NurseId": 19
+  },
+  {
+    "PatientId": 40,
+    "NurseId": 20
+  },
+  {
+    "PatientId": 37,
+    "NurseId": 18
+  },
+  {
+    "PatientId": 38,
+    "NurseId": 19
+  },
+  {
+    "PatientId": 39,
+    "NurseId": 20
+  },
+  {
+    "PatientId": 40,
+    "NurseId": 17
+  },
+  {
+    "PatientId": 37,
+    "NurseId": 19
+  }
+]
+
+
+
+
+

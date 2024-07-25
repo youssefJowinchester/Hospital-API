@@ -1,0 +1,56 @@
+[
+  {
+    "Rate": 4.2,
+    "DoctorId":41,
+    "Name": "Jane Doe",
+    "Password": "password789",
+    "PhoneNumber": "555-555-5555",
+    "Email": "jane.doe@hospital.com",
+    "Address": "789 Maple Ave",
+    "Salary": 80000,
+    "Age": 30,
+    "PictureUrl": "images/nurse/n1.jpg"
+
+  },
+  {
+    "Rate": 4.4,
+    "DoctorId": 42,
+    "Name": "Emily Davis",
+    "Password": "password321",
+    "PhoneNumber": "444-444-4444",
+    "Email": "emily.davis@hospital.com",
+    "Address": "101 Pine St",
+    "Salary": 85000,
+    "Age": 32,
+    "PictureUrl": "images/nurse/n2.jpg"
+
+  },
+  {
+    "Rate": 4.0,
+    "DoctorId": 43,
+    "Name": "Jennifer Martinez",
+    "Password": "Jenn1f3rM",
+    "PhoneNumber": "444-444-4474",
+    "Email": "jennifer.martinez@example.com",
+    "Address": "123 Elm Street, Springfield",
+    "Salary": 65000,
+    "Age": 34,
+    "PictureUrl": "images/nurse/n3.jpg"
+  },
+  {
+    "Rate": 4.1,
+    "DoctorId": 44,
+    "Name": "Robert Johnson",
+    "Password": "Rob3rtJ0hns",
+    "PhoneNumber": "444-784-5574",
+    "Email": "Robert.Johnson@example.com",
+    "Address": "456 Oak Avenue, Riverside",
+    "Salary": 62000,
+    "Age": 29,
+    "PictureUrl": "images/nurse/n4.jpg"
+  }
+]
+
+
+
+

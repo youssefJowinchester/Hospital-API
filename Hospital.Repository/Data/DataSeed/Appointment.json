@@ -1,0 +1,28 @@
+[
+  {
+    "Date": "2024-06-18T09:00:00",
+    "PatientId": 37,
+    "DoctorId": 41
+  },
+  {
+    "Date": "2024-06-19T10:30:00",
+    "PatientId": 38,
+    "DoctorId": 42
+  },
+  {
+
+    "Date": "2024-06-20T10:40:00",
+    "PatientId": 39,
+    "DoctorId": 43
+  },
+  {
+
+    "Date": "2024-06-21T10:50:00",
+    "PatientId": 40,
+    "DoctorId": 43
+  }
+]
+
+
+
+

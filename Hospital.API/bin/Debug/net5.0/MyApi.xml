@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hospital.API</name>
+    </assembly>
+    <members>
+        <member name="M:Hospital.API.Controllers.AccountsController.Register(Hospital.API.DTO.IdentityDTO.RegisterDto)">
+            <summary>
+            Registers a new user.
+            </summary>
+            <param name="model">The registration details.</param>
+            <returns>The registered user details.</returns>
+            
+        </member>
+        <member name="M:Hospital.API.Controllers.AccountsController.Login(Hospital.API.DTO.IdentityDTO.LoginDto)">
+            <summary>
+            Logs in a user.
+            </summary>
+            <param name="model">The login details.</param>
+            <returns>The user details if login is successful.</returns>
+        </member>
+        <member name="M:Hospital.API.Controllers.AccountsController.CheckEmailExists(System.String)">
+            <summary>
+            Checks if an email already exists.
+            </summary>
+            <param name="email">The email to check.</param>
+            <returns>True if the email exists, otherwise false.</returns>
+        </member>
+    </members>
+</doc>

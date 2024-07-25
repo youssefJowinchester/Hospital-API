@@ -1,0 +1,45 @@
+[
+  {
+    "Name": "John Doe",
+    "Password": "password123",
+    "PhoneNumber": "123-123-1234",
+    "Email": "john.doe@example.com",
+    "Address": "321 Oak St",
+    "Age": 29,
+    "PictureUrl": "images/patient/p1.jpg",
+    "BloodType": "A_Positive"
+  },
+  {
+    "Name": "Mary Johnson",
+    "Password": "M@ryJ0hn",
+    "PhoneNumber": "321-123-1234",
+    "Email": "Mary.Johnson@example.com",
+    "Address": "456 Oak Avenue, Riverside",
+    "Age": 52,
+    "PictureUrl": "images/patient/p2.jpg",
+    "BloodType": "A_Negative"
+  },
+  {
+    "Name": "Robert Brown",
+    "Password": "M@R0b3rtBr0wn",
+    "PhoneNumber": "456-123-1234",
+    "Email": "Robert.Brown@example.com",
+    "Address": "789 Pine Road, Fairview",
+    "Age": 50,
+    "PictureUrl": "images/patient/p3.jpg",
+    "BloodType": "AB_Positive"
+  },
+  {
+    "Name": "Robert Brown",
+    "Password": "M@R0b3rtBr0wn",
+    "PhoneNumber": "456-123-1234",
+    "Email": "Robert.Brown@example.com",
+    "Address": "789 Pine Road, Fairview",
+    "Age": 50,
+    "PictureUrl": "images/patient/p4.jpg",
+    "BloodType": "AB_Negative"
+  }
+
+]
+
+

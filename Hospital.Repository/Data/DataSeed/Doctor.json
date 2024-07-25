@@ -1,0 +1,62 @@
+[
+  {
+    
+    "Name": "Dr. John Smith",
+    "Password": "password123",
+    "PhoneNumber": "123-456-7890",
+    "Email": "john.smith@hospital.com",
+    "Address": "123 Main St",
+    "Salary": 200000,
+    "Age": 45,
+    "PictureUrl": "images/doctor/dr1.jpg",
+    "Rate": 4.5,
+    "Major": "Cardiology",
+    "Position": "Resident"
+  },
+  {
+    
+    "Name": "Dr. Alice Johnson",
+    "Password": "password456",
+    "PhoneNumber": "987-654-3210",
+    "Email": "alice.johnson@hospital.com",
+    "Address": "456 Elm St",
+    "Salary": 180000,
+    "Age": 40,
+    "PictureUrl": "images/doctor/dr2.jpg",
+    "Rate": 4.7,
+    "Major": "Neurology",
+    "Position": "Registrar"
+  },
+  {
+    
+    "Name": " Dr. Emily Johnson",
+    "Password": "Em!lyJ0hn",
+    "PhoneNumber": "555-234-5678",
+    "Email": "emily.johnson@example.com",
+    "Address": "456 Elm St",
+    "Salary": 240000,
+    "Age": 39,
+    "PictureUrl": "images/doctor/dr3.jpg",
+    "Rate": 4.0,
+    "Major": "Orthopedics",
+    "Position": "MedicalOfficer"
+  },
+  {
+    
+    "Name": "Dr. Michael Williams",
+    "Password": "M!keWill@50",
+    "PhoneNumber": "555-345-6789",
+    "Email": "michael.williams@example.com",
+    "Address": "456 Elm St",
+    "Salary": 280000,
+    "Age": 50,
+    "PictureUrl": "images/doctor/dr4.jpg",
+    "Rate": 4.9,
+    "Major": "Pediatrics",
+    "Position": "HouseOfficer"
+  }
+]
+
+
+
+

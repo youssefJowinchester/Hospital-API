@@ -1,0 +1,39 @@
+[
+  {
+    "PatientId": 37,
+    "History": "No known allergies. Previous surgery for appendicitis in 2010."
+  },
+  {
+    "PatientId": 37,
+    "History": "Diagnosed with mild asthma in 2015."
+  },
+  {
+    "PatientId": 38,
+    "History": "Aspirin: Used for pain relief, reducing fever, and anti-inflammatory purposes. Also used to reduce the risk of heart attack and stroke."
+  },
+  {
+    "PatientId": 38,
+    "History": "Ibuprofen: A nonsteroidal anti-inflammatory drug (NSAID) used to reduce fever, pain, and inflammation."
+  },
+  {
+    "PatientId": 39,
+    "History": "Amoxicillin: An antibiotic used to treat various bacterial infections."
+  },
+  {
+    "PatientId": 39,
+    "History": "Metformin: Used to control high blood sugar in people with type 2 diabetes."
+  },
+  {
+    "PatientId": 40,
+    "History": "Atorvastatin: A statin medication used to lower cholesterol and reduce the risk of heart disease."
+  },
+  {
+    "PatientId": 40,
+    "History": "Omeprazole: A proton pump inhibitor used to treat gastroesophageal reflux disease (GERD) and other stomach acid-related conditions."
+  }
+]
+
+
+
+
+

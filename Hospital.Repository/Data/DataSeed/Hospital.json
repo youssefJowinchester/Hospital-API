@@ -1,0 +1,22 @@
+[
+  {
+   
+    "Name": "City Hospital",
+    "PhoneNumber": "999-999-9999",
+    "Email": "contact@cityhospital.com",
+    "Address": "987 Hospital Rd",
+    "Room": 101
+  },
+  {
+    "Name": "General Hospital",
+    "PhoneNumber": "888-888-8888",
+    "Email": "contact@generalhospital.com",
+    "Address": "123 Health Blvd",
+    "Room": 202
+  }
+]
+
+
+
+
+
